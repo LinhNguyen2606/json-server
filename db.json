@@ -61,6 +61,41 @@
       "id": "2",
       "name": "CanEditUsers",
       "description": "Can modify user details and access levels"
+    },
+    {
+      "id": "3",
+      "name": "CanAdminProjects",
+      "description": "Can create projects"
+    },
+    {
+      "id": "4",
+      "name": "CanAdminTasks",
+      "description": "Can create tasks"
+    },
+    {
+      "id": "5",
+      "name": "CanSeeTasks",
+      "description": "Can see tasks"
+    },
+    {
+      "id": "6",
+      "name": "CanSeeEmails",
+      "description": "Can see custom emails"
+    },
+    {
+      "id": "7",
+      "name": "CanAdinEmails",
+      "description": "Can create custom emails"
+    },
+    {
+      "id": "8",
+      "name": "CanCreateReports",
+      "description": "Can create reports"
+    },
+    {
+      "id": "9",
+      "name": "CanSeeReports",
+      "description": "Can see reports"
     }
   ],
   "userRules": [
