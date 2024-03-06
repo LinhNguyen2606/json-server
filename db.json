@@ -1,56 +1,6 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "userName": "Elly Soyer",
-      "isActive": true,
-      "email": "elly.soyer@example",
-      "avatar": "https://docs.webix.com/usermanager-backend/users/98/avatar/909471384.jpg",
-      "registered": "Jun 01, 2020 00:42:34",
-      "lastVisited": "Jun 01, 2020 00:42:34",
-      "details": ""
-    },
-    {
-      "id": "2",
-      "userName": "Daenerys Stormborn",
-      "isActive": false,
-      "email": "breaker.of.chains@gm.com",
-      "avatar": "https://docs.webix.com/usermanager-backend/users/105/avatar/096793420.jpg",
-      "registered": "Jun 02, 2020 21:28:22",
-      "lastVisited": "Jun 02, 2020 21:28:22",
-      "details": ""
-    },
-    {
-      "id": "3",
-      "userName": "Ned Stark",
-      "isActive": true,
-      "email": "winterhell@gmail.com",
-      "avatar": "https://docs.webix.com/usermanager-backend/users/103/avatar/491902305.jpg",
-      "registered": "Jun 02, 2020 21:27:53",
-      "lastVisited": "Jun 02, 2020 21:27:53",
-      "details": ""
-    }
-  ],
-  "roles": [
-    {
-      "name": "Admin",
-      "avatar": "",
-      "bgColor": "#ddd",
-      "id": "1"
-    },
-    {
-      "id": "2",
-      "name": "Leader",
-      "avatar": "",
-      "bgColor": "#9ef9bb"
-    },
-    {
-      "id": "3",
-      "name": "Report",
-      "avatar": "",
-      "bgColor": "#000000"
-    }
-  ],
+  "users": [],
+  "roles": [],
   "rules": [
     {
       "id": "1",
@@ -98,55 +48,7 @@
       "description": "Can see reports"
     }
   ],
-  "userRules": [
-    {
-      "id": "1",
-      "userId": "1",
-      "ruleId": "1"
-    },
-    {
-      "id": "2",
-      "userId": "1",
-      "ruleId": "2"
-    },
-    {
-      "id": "3",
-      "userId": "2",
-      "ruleId": "2"
-    }
-  ],
-  "userRoles": [
-    {
-      "id": "1",
-      "userId": "1",
-      "roleId": "1"
-    },
-    {
-      "id": "2",
-      "userId": "1",
-      "roleId": "2"
-    },
-    {
-      "id": "3",
-      "userId": "3",
-      "roleId": "3"
-    }
-  ],
-  "roleRules": [
-    {
-      "id": "1",
-      "ruleId": "1",
-      "roleId": "1"
-    },
-    {
-      "id": "2",
-      "ruleId": "1",
-      "roleId": "3"
-    },
-    {
-      "id": "3",
-      "ruleId": "2",
-      "roleId": "2"
-    }
-  ]
+  "userRules": [],
+  "userRoles": [],
+  "roleRules": []
 }
