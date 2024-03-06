@@ -84,7 +84,7 @@
     },
     {
       "id": "7",
-      "name": "CanAdinEmails",
+      "name": "CanAdminEmail",
       "description": "Can create custom emails"
     },
     {
@@ -127,9 +127,9 @@
       "roleId": "2"
     },
     {
-      "id": "c01c",
+      "id": "3",
       "userId": "3",
-      "roleId": "b6b3"
+      "roleId": "3"
     }
   ],
   "roleRules": [
